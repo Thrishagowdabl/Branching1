@@ -1,1 +1,2 @@
 created file3.txt in main now it is adding into dev
+created file3.txt in main and now moving relaese
